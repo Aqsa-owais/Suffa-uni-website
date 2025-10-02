@@ -16,15 +16,12 @@ export function Hero() {
             learning community...
           </p>
           <div className="mt-6 flex items-center gap-3">
-            <Button asChild className="bg-primary text-primary-foreground hover:bg-primary/90">
-              <Link href="#session-details">View Session Details</Link>
-            </Button>
             <Button
               asChild
               variant="outline"
               className="border-accent text-foreground hover:bg-secondary bg-transparent"
             >
-              <Link href="#assignments">Go to Assignments</Link>
+              <Link href="https://icode.guru/join/" target="_blank">Join iCodeGuru</Link>
             </Button>
           </div>
         </div>
