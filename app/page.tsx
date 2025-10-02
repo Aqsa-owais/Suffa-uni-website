@@ -43,7 +43,7 @@ export default function Page() {
                 Assignments
               </h2>
               <p className="mt-2 text-muted-foreground">
-                View assignment details and submit your work. Replace the link URLs with your own.
+                View assignment details and submit your work.
               </p>
               <div className="mt-6">
                 <AssignmentsGrid />
@@ -67,7 +67,7 @@ export default function Page() {
                     <p className="text-muted-foreground">Open the recordings sheet organized by week and topic.</p>
                     {/* Replace href with your actual Recordings link */}
                     <Button asChild className="mt-4 bg-primary text-primary-foreground hover:bg-primary/90">
-                      <Link href="https://your-recordings-link.example.com" target="_blank" rel="noopener noreferrer">
+                      <Link href="https://docs.google.com/spreadsheets/d/1jKni6pGRUb-eE6Fsh0TZQ2BcMBm1GNYgiUjqF4-NCjw/edit?gid=0#gid=0" target="_blank" rel="noopener noreferrer">
                         Open Recordings Sheet
                       </Link>
                     </Button>

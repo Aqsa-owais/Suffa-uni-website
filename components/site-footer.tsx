@@ -17,27 +17,27 @@ export function SiteFooter() {
           <div className="flex items-center gap-4">
             {/* Replace href values with your social links */}
             <Link
-              href="https://your-website.example.com"
+              href="https://icode.guru/join/"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Website"
             >
               <Globe className="h-5 w-5 hover:opacity-80" />
             </Link>
-            <Link href="https://facebook.example.com" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+            <Link href="https://www.facebook.com/iCodeguru/" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
               <Facebook className="h-5 w-5 hover:opacity-80" />
             </Link>
-            <Link href="https://youtube.example.com" target="_blank" rel="noopener noreferrer" aria-label="YouTube">
+            <Link href="https://www.youtube.com/@iCodeGuru0" target="_blank" rel="noopener noreferrer" aria-label="YouTube">
               <Youtube className="h-5 w-5 hover:opacity-80" />
             </Link>
-            <Link href="https://linkedin.example.com" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+            <Link href="https://www.linkedin.com/company/icode-guru/posts/?feedView=all" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
               <Linkedin className="h-5 w-5 hover:opacity-80" />
             </Link>
           </div>
 
           {/* Replace href with your Feedback Form link */}
           <Button asChild variant="outline" className="border-accent bg-transparent">
-            <Link href="https://your-feedback-form.example.com" target="_blank" rel="noopener noreferrer">
+            <Link href="https://docs.google.com/forms/d/e/1FAIpQLSessmxG9HB18z6cVLgLYoJQcDazMyoPyb5W_BFF6ByF-IidhA/viewform" target="_blank" rel="noopener noreferrer">
               Feedback Form
             </Link>
           </Button>

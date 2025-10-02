@@ -17,9 +17,9 @@ const assignments: Assignment[] = [
   {
     id: 1,
     title: "Assignment 1",
-    subtitle: "Introduction to Programming Concepts",
-    detailsUrl: "https://your-assignment-1-details.example.com",
-    submitUrl: "https://your-assignment-1-submit.example.com",
+    subtitle: "1st Assignment Instructions ",
+    detailsUrl: "https://docs.google.com/document/d/1rLREBcYbFDGY4ADA0Ir54ZVq2pAcWgGwBuVAUXjOuIg/edit?tab=t.0#heading=h.jm555u21o2rn",
+    submitUrl: "https://docs.google.com/forms/d/e/1FAIpQLSeXDa5DGrWzg2jscrMDcLjV3EXut3oWV5YIv3AfxRSICccavg/viewform",
   },
   {
     id: 2,
