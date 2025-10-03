@@ -21,27 +21,27 @@ const assignments: Assignment[] = [
     detailsUrl: "https://docs.google.com/document/d/1rLREBcYbFDGY4ADA0Ir54ZVq2pAcWgGwBuVAUXjOuIg/edit?tab=t.0#heading=h.jm555u21o2rn",
     submitUrl: "https://docs.google.com/forms/d/e/1FAIpQLSeXDa5DGrWzg2jscrMDcLjV3EXut3oWV5YIv3AfxRSICccavg/viewform",
   },
-  {
-    id: 2,
-    title: "Assignment 2",
-    subtitle: "Data Structures and Algorithms",
-    detailsUrl: "https://your-assignment-2-details.example.com",
-    submitUrl: "https://your-assignment-2-submit.example.com",
-  },
-  {
-    id: 3,
-    title: "Assignment 3",
-    subtitle: "Object-Oriented Programming",
-    detailsUrl: "https://your-assignment-3-details.example.com",
-    submitUrl: "https://your-assignment-3-submit.example.com",
-  },
-  {
-    id: 4,
-    title: "Assignment 4",
-    subtitle: "Web Development Basics",
-    detailsUrl: "https://your-assignment-4-details.example.com",
-    submitUrl: "https://your-assignment-4-submit.example.com",
-  },
+  // {
+  //   id: 2,
+  //   title: "Assignment 2",
+  //   subtitle: "Data Structures and Algorithms",
+  //   detailsUrl: "https://your-assignment-2-details.example.com",
+  //   submitUrl: "https://your-assignment-2-submit.example.com",
+  // },
+  // {
+  //   id: 3,
+  //   title: "Assignment 3",
+  //   subtitle: "Object-Oriented Programming",
+  //   detailsUrl: "https://your-assignment-3-details.example.com",
+  //   submitUrl: "https://your-assignment-3-submit.example.com",
+  // },
+  // {
+  //   id: 4,
+  //   title: "Assignment 4",
+  //   subtitle: "Web Development Basics",
+  //   detailsUrl: "https://your-assignment-4-details.example.com",
+  //   submitUrl: "https://your-assignment-4-submit.example.com",
+  // },
 ]
 
 export function AssignmentsGrid() {

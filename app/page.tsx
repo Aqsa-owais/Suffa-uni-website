@@ -24,7 +24,7 @@ export default function Page() {
           <section aria-labelledby="session-details" className="py-10 md:py-14">
             <div className="container mx-auto px-4 md:px-6">
               <h2 id="session-details" className="text-3xl md:text-4xl font-semibold tracking-tight text-balance">
-                Session Details
+                 Latest Trends in Technology 2025
               </h2>
               <p className="mt-2 text-muted-foreground">Key information about the live class schedule and format.</p>
               <div className="mt-6">
