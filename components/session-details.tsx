@@ -30,7 +30,7 @@ export function SessionDetails() {
         <div className="mt-6 rounded-lg border border-accent/40 p-4 flex items-start gap-3">
           <Info className="h-5 w-5 text-accent mt-0.5" aria-hidden="true" />
           <p className="text-sm">
-            <span className="font-semibold">Note:</span> Note: Make sure to join on time. Attendance and participation are important for your progress.
+            <span className="font-semibold">Note:</span> Make sure to join on time. Attendance and participation are important for your progress.
           </p>
         </div>
       </CardContent>
