@@ -21,13 +21,13 @@ const assignments: Assignment[] = [
     detailsUrl: "https://docs.google.com/document/d/1rLREBcYbFDGY4ADA0Ir54ZVq2pAcWgGwBuVAUXjOuIg/edit?tab=t.0#heading=h.jm555u21o2rn",
     submitUrl: "https://docs.google.com/forms/d/e/1FAIpQLSeXDa5DGrWzg2jscrMDcLjV3EXut3oWV5YIv3AfxRSICccavg/viewform",
   },
-  // {
-  //   id: 2,
-  //   title: "Assignment 2",
-  //   subtitle: "Data Structures and Algorithms",
-  //   detailsUrl: "https://your-assignment-2-details.example.com",
-  //   submitUrl: "https://your-assignment-2-submit.example.com",
-  // },
+  {
+    id: 2,
+    title: "Assignment 2",
+    subtitle: "2nd Assignment Instructions",
+    detailsUrl: "https://docs.google.com/document/d/1mO7aJTi_gz-z56TfuVV2BCMjTXH2_qj7GFTusismug4/edit?tab=t.0#heading=h.3waw299n8mvu",
+    submitUrl: "https://docs.google.com/forms/d/e/1FAIpQLSeQ0CdAOBuUt1-ZVcvOLOo2moaqllkNdTw9TVoMDjMj3r5AKg/viewform",
+  },
   // {
   //   id: 3,
   //   title: "Assignment 3",
