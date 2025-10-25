@@ -35,13 +35,13 @@ const assignments: Assignment[] = [
     detailsUrl: "https://docs.google.com/document/d/16XGcm316HUaqWiTgTM6IERap3VF9deA2RVUXzasRJH8/edit?tab=t.0",
     submitUrl: "https://docs.google.com/forms/d/e/1FAIpQLScrWn2KVuKcebG2F9AWrvMfx9r4QHpLss5aAwKmqR_p6w5IDQ/viewform",
   },
-  // {
-  //   id: 4,
-  //   title: "Assignment 4",
-  //   subtitle: "Web Development Basics",
-  //   detailsUrl: "https://your-assignment-4-details.example.com",
-  //   submitUrl: "https://your-assignment-4-submit.example.com",
-  // },
+  {
+    id: 4,
+    title: "Assignment 4",
+    subtitle: "Machine Learning Quiz Submission Form",
+    detailsUrl: "",
+    submitUrl: "https://docs.google.com/forms/d/e/1FAIpQLSd9nam_GtWQrR25ePqbmop6bqRkP1oZ6C0gJfZtAJV5kEkfkg/viewform",
+  },
 ]
 
 export function AssignmentsGrid() {
