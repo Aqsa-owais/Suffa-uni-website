@@ -42,6 +42,13 @@ const assignments: Assignment[] = [
     detailsUrl: "",
     submitUrl: "https://docs.google.com/forms/d/e/1FAIpQLSd9nam_GtWQrR25ePqbmop6bqRkP1oZ6C0gJfZtAJV5kEkfkg/viewform",
   },
+  {
+    id: 5,
+    title: "Assignment 5",
+    subtitle: "Prompt Engineering Fundamentals",
+    detailsUrl: "https://docs.google.com/document/d/1NszdtOyEJeNnthJ7V3a5FNc3ZyUCfDo3mjoYhkdp1gE/edit?tab=t.0#heading=h.8o5jdfteqs1u",
+    submitUrl: "https://docs.google.com/forms/d/e/1FAIpQLScvZY5ZiOpXQfH6SdwSbReNSX0cOlRJXg5tVw-v97CGsH3RZA/viewform",
+  },
 ]
 
 export function AssignmentsGrid() {
