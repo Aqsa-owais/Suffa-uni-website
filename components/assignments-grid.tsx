@@ -49,6 +49,13 @@ const assignments: Assignment[] = [
     detailsUrl: "https://docs.google.com/document/d/1NszdtOyEJeNnthJ7V3a5FNc3ZyUCfDo3mjoYhkdp1gE/edit?tab=t.0#heading=h.8o5jdfteqs1u",
     submitUrl: "https://docs.google.com/forms/d/e/1FAIpQLScvZY5ZiOpXQfH6SdwSbReNSX0cOlRJXg5tVw-v97CGsH3RZA/viewform",
   },
+  {
+    id: 6,
+    title: "Assignment 6",
+    subtitle: "Python Quiz Submission Form",
+    detailsUrl: "",
+    submitUrl: "https://docs.google.com/forms/d/e/1FAIpQLScjFp5hZqnpFKZzEAJtALp2-nKkgTx93oU8TH3f3bMTmg_DtA/viewform",
+  },
 ]
 
 export function AssignmentsGrid() {
